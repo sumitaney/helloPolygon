@@ -193,7 +193,7 @@
         </div>
       </div>
     </section>
-    <section class="black content-bottom ">
+    <section id="bottom" class="black content-bottom ">
       <v-container >
         <!-- <v-container > -->
           <div class="text-center">
