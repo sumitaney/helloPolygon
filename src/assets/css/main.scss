@@ -121,10 +121,7 @@ button{
 .content-bottom{
     padding: 4rem 1.4rem;
 }
-.panels-width {
-    width: 60%;
-    margin: auto;
-}
+
 .content-bottom > h2{
     text-align: center;
     font-size: 2rem;
@@ -140,10 +137,7 @@ button{
         margin-left: auto;
         margin-right: auto;
     }
-     .panels-width {
-        width: 80%;
-        margin: auto;
-    }
+ 
     
 }
 @media screen and (min-width: 790px){
@@ -175,10 +169,7 @@ button{
         width: 600px;
         text-align: center;
     }
-    .panels-width {
-        width: 80%;
-        margin: auto;
-    }
+  
     
 }
 
@@ -221,4 +212,5 @@ button{
     .curved-content-wrapper{
         padding-top: 3rem;
     }
+
 }
