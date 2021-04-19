@@ -37,9 +37,10 @@
     </section>
     <section id="mid" class="content-mid">
       <v-container class="content-mid-cards">
+
         <v-card elevation="20" max-width="380" rounded class=" py-12 mx-auto mb-5 content-item grey darken-4 white--text">
-          <v-card-title class="text-h4  text-center card-title font-weight-bold"> Learning differences assessment
-          </v-card-title>
+          <div class="text-h4 px-auto mx-2 mt-5 text-center font-weight-bold"> Learning differences assessment
+          </div>
 
           <v-card-text>
             <p class="subtitle-1 text-center white--text">Comprehensive assessment for dyslexia, dyscalculia,
@@ -85,7 +86,7 @@
         <v-card elevation="20" rounded max-width="380" class=" mx-auto py-12 mb-5 content-item grey darken-4  white--text">
 
           <!-- <v-img src="https://hellopolygon.com/img/service.eaae9759.svg" class="my-3" contain height="100" /> -->
-          <v-card-title class=" text-h4  card-title font-weight-bold text-center"> Attention differences assessment </v-card-title>
+          <div class="text-h4 px-auto mx-2 mt-5 text-center font-weight-bold" > Attention differences assessment </div>
 
           <v-card-text>
             <p class="subtitle-1 white--text text-center">Comprehensive assessment for ADHD. Available as an
@@ -123,7 +124,7 @@
         </v-card>
 
         <v-card elevation="20" max-width="380" rounded class="mx-auto py-12 mb-5 content-item grey darken-4  white--text">
-          <v-card-title class="text-h4 card-title px-10 font-weight-bold"> Follow-up support </v-card-title>
+          <div class="text-h4 px-auto mx-2 mt-5 text-center font-weight-bold"> Follow-up support </div>
 
           <v-card-text>
             <p class="subtitle-1 text-center white--text">Ongoing support appointments with your psychologist.
